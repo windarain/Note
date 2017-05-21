@@ -1,0 +1,686 @@
+[
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notes_header_gray.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\notes_header_gray.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_pink.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\item_pink.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_y.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_y.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_search.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_search.png"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_save.png",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\drawable\\ic_menu_save.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_small_red.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\widget_small_red.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_title_pink.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_title_pink.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_folder_notes.png",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\drawable\\live_folder_notes.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_violet.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_violet.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_green.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\item_green.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_light_white.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\item_light_white.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_revert.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_revert.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notes_bg_blue.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\notes_bg_blue.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_y.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_y.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_violet.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_violet.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_small_yellow.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\widget_small_yellow.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notes_header_blue.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\notes_header_blue.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_big_green.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\widget_big_green.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_folder_notes.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\live_folder_notes.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_title_grey.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_title_grey.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_violet.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\item_violet.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_light_green.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\item_light_green.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_light_yellow.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\item_light_yellow.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_compose.png",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_compose.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notes_bg_gray.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\notes_bg_gray.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lock.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_lock.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_orange.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_orange.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_blue.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_blue.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_compose.png",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\drawable\\ic_menu_compose.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_title_violet.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_title_violet.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_big_yellow.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\widget_big_yellow.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_setbackground.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_setbackground.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_title_pink.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_title_pink.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_title_orange.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_title_orange.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_title_violet.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_title_violet.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notes_header_green.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\notes_header_green.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_revert.png",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\drawable\\ic_menu_revert.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_pink.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\item_pink.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_small_blue.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\widget_small_blue.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_title_orange.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_title_orange.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_green.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\item_green.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_alarm.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_alarm.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_folder_notes.png",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\live_folder_notes.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_big_blue.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\widget_big_blue.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_grey.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_grey.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_notes.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\app_notes.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_revert.png",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_revert.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_setbackground.png",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_setbackground.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_light_blue.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\item_light_blue.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_gray.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\item_gray.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_alarm.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_alarm.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_blue.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\item_blue.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_small_green.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\widget_small_green.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_title_green.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_title_green.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_blue.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_blue.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notes_header_pink.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\notes_header_pink.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_delete.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_delete.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_blue.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\item_blue.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_save.png",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_save.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_big_gray.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\widget_big_gray.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_gray.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\item_gray.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_compose.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_compose.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_delete.png",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\drawable\\ic_menu_delete.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_alarm2.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_alarm2.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_edit.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_edit.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_title_green.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_title_green.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yellow.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_yellow.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_yellow.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\item_yellow.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_output.png",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_output.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gray.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_gray.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spacer_medium.xml",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\spacer_medium.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_edit.png",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\drawable\\ic_menu_edit.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_yellow.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\item_yellow.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_small_gray.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\widget_small_gray.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_notes.png",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\app_notes.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notes_bg_pink.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\notes_bg_pink.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_edit.png",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_edit.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_save.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_save.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_pink.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_pink.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_big_red.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\widget_big_red.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yellow.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_yellow.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_delete.png",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_delete.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_output.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_output.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_green.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_green.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gray.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_gray.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_search.png",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_search.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notes_header_yellow.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\notes_header_yellow.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notes_bg_green.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\notes_bg_green.png"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_notes.png",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\drawable\\app_notes.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_green.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_green.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_light_pink.png",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\item_light_pink.png"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_title_grey.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_title_grey.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\541ed6687492ba517e1c3892d5b4e4866b62ba35\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_violet.jpg",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\item_violet.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_pink.jpg",
+        "source": "D:\\study\\Android\\NotePad-master\\app\\src\\main\\res\\drawable\\bg_pink.jpg"
+    },
+    {
+        "merged": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spacer_medium.xml",
+        "source": "D:\\study\\Android\\Test\\Test\\NotePad-master\\app\\src\\main\\res\\drawable\\spacer_medium.xml"
+    }
+]

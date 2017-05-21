@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--linearlayout间距的大小 -->
+    <dimen name="spacing_mediumw">100dp</dimen><!--宽 -->
+    <dimen name="spacing_mediumh">3dp</dimen><!--高 -->
+    <dimen name="t1size">16dp</dimen><!--高 -->
+</resources>

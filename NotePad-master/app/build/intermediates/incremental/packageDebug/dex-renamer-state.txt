@@ -1,0 +1,4 @@
+#Sun May 21 18:13:22 CST 2017
+base.0=D\:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\study\\Android\\NotePad-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
